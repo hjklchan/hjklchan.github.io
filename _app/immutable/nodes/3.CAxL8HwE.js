@@ -1,0 +1,1 @@
+import"../chunks/DsnmJJEf.js";import"../chunks/69_IOA4Y.js";import{f as a,a as r}from"../chunks/08zest7Z.js";var p=a('<h1 class="text-3xl">关于我页面</h1>');function s(o){var t=p();r(o,t)}export{s as component};
